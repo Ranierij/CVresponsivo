@@ -1,6 +1,6 @@
 # CV Responsivo - Live DIO - Trabalhando com responsividade na prática
 
-## repositório foi criado para a Live do Bootcamp Impulso React Web Developer da Digital Innovation One.
+## Repositório foi criado para a Live do Bootcamp Impulso React Web Developer da Digital Innovation One.
 
 ### Autor: *Ranieri Jesuino*
 
